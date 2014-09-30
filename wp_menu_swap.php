@@ -7,6 +7,9 @@ Description: add arguments to menu set as "Primary"
 License: GPL
 Version: 0.1
 Author: DMM
+GitHub Plugin URI: https://github.com/damonmaldonado/wp-menu-swap
+GitHub Branch:     master
+
 	*/
 		
 /* 
